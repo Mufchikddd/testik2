@@ -1,0 +1,43 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    color-scheme: dark;
+  }
+
+  body {
+    @apply bg-night font-sans text-ink antialiased;
+    background-image: radial-gradient(60rem 28rem at 50% -8rem, rgba(245, 158, 75, 0.10), transparent 70%);
+    background-repeat: no-repeat;
+  }
+
+  ::selection {
+    background: rgba(245, 158, 75, 0.35);
+  }
+
+  :focus-visible {
+    outline: 2px solid theme('colors.aether');
+    outline-offset: 3px;
+    border-radius: 8px;
+  }
+}
+
+@keyframes hero-progress {
+  from {
+    transform: scaleX(0);
+  }
+  to {
+    transform: scaleX(1);
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation: none !important;
+    transition-duration: 0.01ms !important;
+  }
+}

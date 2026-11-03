@@ -1,0 +1,20 @@
+[
+  {
+    "episode": 1,
+    "title": "Серия 1",
+    "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+    "dramaId": "tmdb-96648"
+  },
+  {
+    "episode": 2,
+    "title": "Серия 2",
+    "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+    "dramaId": "tmdb-96648"
+  },
+  {
+    "episode": 3,
+    "title": "Серия 3",
+    "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+    "dramaId": "tmdb-96648"
+  }
+]

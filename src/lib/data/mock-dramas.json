@@ -1,0 +1,529 @@
+[
+  {
+    "id": "mock-1",
+    "title": "Crash Landing on You",
+    "originalTitle": "사랑의 불시착",
+    "posterUrl": null,
+    "backdropUrl": null,
+    "overview": "Наследница южнокорейской компании во время полёта на параплане попадает в Северную Корею, где её прячет молодой офицер. Между ними возникает чувство, которое нельзя показать никому.",
+    "year": 2019,
+    "rating": 8.5,
+    "genres": [
+      "Романтика",
+      "Драма",
+      "Комедия"
+    ],
+    "cast": [
+      {
+        "id": "mock-1-0",
+        "name": "Hyun Bin",
+        "character": "Ri Jeong-hyeok",
+        "photoUrl": null
+      },
+      {
+        "id": "mock-1-1",
+        "name": "Son Ye-jin",
+        "character": "Yoon Se-ri",
+        "photoUrl": null
+      },
+      {
+        "id": "mock-1-2",
+        "name": "Seo Ji-hye",
+        "character": "Seo Dan",
+        "photoUrl": null
+      },
+      {
+        "id": "mock-1-3",
+        "name": "Kim Jung-hyun",
+        "character": "Gu Seung-jun",
+        "photoUrl": null
+      }
+    ],
+    "episodes": 16,
+    "detailsLoaded": true,
+    "source": "mock"
+  },
+  {
+    "id": "mock-2",
+    "title": "Goblin",
+    "originalTitle": "도깨비",
+    "posterUrl": null,
+    "backdropUrl": null,
+    "overview": "Бессмертный дух-гоблин ищет невесту, которая сможет избавить его от вечной жизни. Находит её в школьнице, видящей призраков, и вокруг них закручивается история о судьбе и выборе.",
+    "year": 2016,
+    "rating": 8.4,
+    "genres": [
+      "Фэнтези",
+      "Романтика",
+      "Драма"
+    ],
+    "cast": [
+      {
+        "id": "mock-2-0",
+        "name": "Gong Yoo",
+        "character": "Kim Shin",
+        "photoUrl": null
+      },
+      {
+        "id": "mock-2-1",
+        "name": "Kim Go-eun",
+        "character": "Ji Eun-tak",
+        "photoUrl": null
+      },
+      {
+        "id": "mock-2-2",
+        "name": "Lee Dong-wook",
+        "character": "Grim Reaper",
+        "photoUrl": null
+      },
+      {
+        "id": "mock-2-3",
+        "name": "Yoo In-na",
+        "character": "Sunny",
+        "photoUrl": null
+      }
+    ],
+    "episodes": 16,
+    "detailsLoaded": true,
+    "source": "mock"
+  },
+  {
+    "id": "mock-3",
+    "title": "Squid Game",
+    "originalTitle": "오징어 게임",
+    "posterUrl": null,
+    "backdropUrl": null,
+    "overview": "Сотни людей с огромными долгами принимают приглашение на таинственные детские игры, где проигрыш означает смерть, а победитель получает огромный приз.",
+    "year": 2021,
+    "rating": 7.8,
+    "genres": [
+      "Триллер",
+      "Драма"
+    ],
+    "cast": [
+      {
+        "id": "mock-3-0",
+        "name": "Lee Jung-jae",
+        "character": "Seong Gi-hun",
+        "photoUrl": null
+      },
+      {
+        "id": "mock-3-1",
+        "name": "Park Hae-soo",
+        "character": "Cho Sang-woo",
+        "photoUrl": null
+      },
+      {
+        "id": "mock-3-2",
+        "name": "Wi Ha-joon",
+        "character": "Hwang Jun-ho",
+        "photoUrl": null
+      },
+      {
+        "id": "mock-3-3",
+        "name": "Jung Ho-yeon",
+        "character": "Kang Sae-byeok",
+        "photoUrl": null
+      }
+    ],
+    "episodes": 9,
+    "detailsLoaded": true,
+    "source": "mock"
+  },
+  {
+    "id": "mock-4",
+    "title": "Reply 1988",
+    "originalTitle": "응답하라 1988",
+    "posterUrl": null,
+    "backdropUrl": null,
+    "overview": "Пять семей из одного переулка Сеула конца восьмидесятых и их дети: дружба, первая любовь и повседневная жизнь, в которой всегда есть место поддержке соседей.",
+    "year": 2015,
+    "rating": 8.7,
+    "genres": [
+      "Драма",
+      "Семья",
+      "Комедия"
+    ],
+    "cast": [
+      {
+        "id": "mock-4-0",
+        "name": "Hyeri",
+        "character": "Sung Deok-sun",
+        "photoUrl": null
+      },
+      {
+        "id": "mock-4-1",
+        "name": "Park Bo-gum",
+        "character": "Choi Taek",
+        "photoUrl": null
+      },
+      {
+        "id": "mock-4-2",
+        "name": "Ryu Jun-yeol",
+        "character": "Kim Jung-hwan",
+        "photoUrl": null
+      },
+      {
+        "id": "mock-4-3",
+        "name": "Go Kyung-pyo",
+        "character": "Sung Sun-woo",
+        "photoUrl": null
+      }
+    ],
+    "episodes": 20,
+    "detailsLoaded": true,
+    "source": "mock"
+  },
+  {
+    "id": "mock-5",
+    "title": "It's Okay to Not Be Okay",
+    "originalTitle": "사이코지만 괜찮아",
+    "posterUrl": null,
+    "backdropUrl": null,
+    "overview": "Санитар психиатрической клиники и успешная, но замкнутая писательница лечат друг друга от старых травм и учатся заново доверять людям.",
+    "year": 2020,
+    "rating": 8.4,
+    "genres": [
+      "Романтика",
+      "Драма"
+    ],
+    "cast": [
+      {
+        "id": "mock-5-0",
+        "name": "Kim Soo-hyun",
+        "character": "Moon Gang-tae",
+        "photoUrl": null
+      },
+      {
+        "id": "mock-5-1",
+        "name": "Seo Ye-ji",
+        "character": "Ko Moon-young",
+        "photoUrl": null
+      },
+      {
+        "id": "mock-5-2",
+        "name": "Oh Jung-se",
+        "character": "Moon Sang-tae",
+        "photoUrl": null
+      }
+    ],
+    "episodes": 16,
+    "detailsLoaded": true,
+    "source": "mock"
+  },
+  {
+    "id": "mock-6",
+    "title": "Vincenzo",
+    "originalTitle": "빈센조",
+    "posterUrl": null,
+    "backdropUrl": null,
+    "overview": "Адвокат итальянской мафии возвращается в Корею за спрятанным золотом и оказывается в одной команде с жильцами старого здания против могущественной корпорации.",
+    "year": 2021,
+    "rating": 8.5,
+    "genres": [
+      "Криминал",
+      "Комедия",
+      "Драма"
+    ],
+    "cast": [
+      {
+        "id": "mock-6-0",
+        "name": "Song Joong-ki",
+        "character": "Vincenzo Cassano",
+        "photoUrl": null
+      },
+      {
+        "id": "mock-6-1",
+        "name": "Jeon Yeo-been",
+        "character": "Hong Cha-young",
+        "photoUrl": null
+      },
+      {
+        "id": "mock-6-2",
+        "name": "Ok Taec-yeon",
+        "character": "Jang Jun-woo",
+        "photoUrl": null
+      }
+    ],
+    "episodes": 20,
+    "detailsLoaded": true,
+    "source": "mock"
+  },
+  {
+    "id": "mock-7",
+    "title": "Hotel Del Luna",
+    "originalTitle": "호텔 델루나",
+    "posterUrl": null,
+    "backdropUrl": null,
+    "overview": "Отель для призраков в центре Сеула управляется своенравной хозяйкой, которая застряла в нём на тысячу лет. Ей помогает новый управляющий-человек.",
+    "year": 2019,
+    "rating": 8.0,
+    "genres": [
+      "Фэнтези",
+      "Романтика",
+      "Драма"
+    ],
+    "cast": [
+      {
+        "id": "mock-7-0",
+        "name": "IU",
+        "character": "Jang Man-wol",
+        "photoUrl": null
+      },
+      {
+        "id": "mock-7-1",
+        "name": "Yeo Jin-goo",
+        "character": "Koo Chan-sung",
+        "photoUrl": null
+      },
+      {
+        "id": "mock-7-2",
+        "name": "Shin Jung-geun",
+        "character": "Kim Seon-bi",
+        "photoUrl": null
+      }
+    ],
+    "episodes": 16,
+    "detailsLoaded": true,
+    "source": "mock"
+  },
+  {
+    "id": "mock-8",
+    "title": "My Mister",
+    "originalTitle": "나의 아저씨",
+    "posterUrl": null,
+    "backdropUrl": null,
+    "overview": "Уставший инженер средних лет и молодая девушка, обременённая долгами, находят в чужом человеке то понимание, которого им не хватало в собственной жизни.",
+    "year": 2018,
+    "rating": 8.6,
+    "genres": [
+      "Драма"
+    ],
+    "cast": [
+      {
+        "id": "mock-8-0",
+        "name": "Lee Sun-kyun",
+        "character": "Park Dong-hoon",
+        "photoUrl": null
+      },
+      {
+        "id": "mock-8-1",
+        "name": "IU",
+        "character": "Lee Ji-an",
+        "photoUrl": null
+      },
+      {
+        "id": "mock-8-2",
+        "name": "Park Ho-san",
+        "character": "Park Sang-hoon",
+        "photoUrl": null
+      }
+    ],
+    "episodes": 16,
+    "detailsLoaded": true,
+    "source": "mock"
+  },
+  {
+    "id": "mock-9",
+    "title": "Descendants of the Sun",
+    "originalTitle": "태양의 후예",
+    "posterUrl": null,
+    "backdropUrl": null,
+    "overview": "Капитан спецназа и талантливая хирург встречаются в разных жизненных мирах, но совместная миссия в зоне бедствия ставит их чувства под испытание.",
+    "year": 2016,
+    "rating": 8.1,
+    "genres": [
+      "Романтика",
+      "Драма",
+      "Военный"
+    ],
+    "cast": [
+      {
+        "id": "mock-9-0",
+        "name": "Song Joong-ki",
+        "character": "Yoo Si-jin",
+        "photoUrl": null
+      },
+      {
+        "id": "mock-9-1",
+        "name": "Song Hye-kyo",
+        "character": "Kang Mo-yeon",
+        "photoUrl": null
+      },
+      {
+        "id": "mock-9-2",
+        "name": "Jin Goo",
+        "character": "Seo Dae-young",
+        "photoUrl": null
+      },
+      {
+        "id": "mock-9-3",
+        "name": "Kim Ji-won",
+        "character": "Yoon Myung-joo",
+        "photoUrl": null
+      }
+    ],
+    "episodes": 16,
+    "detailsLoaded": true,
+    "source": "mock"
+  },
+  {
+    "id": "mock-10",
+    "title": "Itaewon Class",
+    "originalTitle": "이태원 클라쓰",
+    "posterUrl": null,
+    "backdropUrl": null,
+    "overview": "Бывший школьник, потерявший всё из-за влиятельной семьи, открывает бар в Итэвоне и шаг за шагом строит бизнес, чтобы бросить вызов обидчикам.",
+    "year": 2020,
+    "rating": 8.2,
+    "genres": [
+      "Драма"
+    ],
+    "cast": [
+      {
+        "id": "mock-10-0",
+        "name": "Park Seo-joon",
+        "character": "Park Sae-ro-yi",
+        "photoUrl": null
+      },
+      {
+        "id": "mock-10-1",
+        "name": "Kim Da-mi",
+        "character": "Jo Yi-seo",
+        "photoUrl": null
+      },
+      {
+        "id": "mock-10-2",
+        "name": "Kwon Nara",
+        "character": "Oh Soo-ah",
+        "photoUrl": null
+      },
+      {
+        "id": "mock-10-3",
+        "name": "Yoo Jae-myung",
+        "character": "Jang Dae-hee",
+        "photoUrl": null
+      }
+    ],
+    "episodes": 16,
+    "detailsLoaded": true,
+    "source": "mock"
+  },
+  {
+    "id": "mock-11",
+    "title": "Business Proposal",
+    "originalTitle": "사내맞선",
+    "posterUrl": null,
+    "backdropUrl": null,
+    "overview": "Девушка идёт на свидание вслепую вместо подруги и обнаруживает, что на другой стороне стола сидит её собственный начальник.",
+    "year": 2022,
+    "rating": 7.9,
+    "genres": [
+      "Романтика",
+      "Комедия"
+    ],
+    "cast": [
+      {
+        "id": "mock-11-0",
+        "name": "Ahn Hyo-seop",
+        "character": "Kang Tae-moo",
+        "photoUrl": null
+      },
+      {
+        "id": "mock-11-1",
+        "name": "Kim Se-jeong",
+        "character": "Shin Ha-ri",
+        "photoUrl": null
+      },
+      {
+        "id": "mock-11-2",
+        "name": "Kim Min-kyu",
+        "character": "Cha Sung-hoon",
+        "photoUrl": null
+      },
+      {
+        "id": "mock-11-3",
+        "name": "Seol In-ah",
+        "character": "Jin Young-seo",
+        "photoUrl": null
+      }
+    ],
+    "episodes": 12,
+    "detailsLoaded": true,
+    "source": "mock"
+  },
+  {
+    "id": "mock-12",
+    "title": "Extraordinary Attorney Woo",
+    "originalTitle": "이상한 변호사 우영우",
+    "posterUrl": null,
+    "backdropUrl": null,
+    "overview": "Блестящий адвокат с аутизмом начинает работу в крупной фирме и доказывает коллегам, что её взгляд на дела уникален и ценен.",
+    "year": 2022,
+    "rating": 8.4,
+    "genres": [
+      "Драма",
+      "Юридический"
+    ],
+    "cast": [
+      {
+        "id": "mock-12-0",
+        "name": "Park Eun-bin",
+        "character": "Woo Young-woo",
+        "photoUrl": null
+      },
+      {
+        "id": "mock-12-1",
+        "name": "Kang Tae-oh",
+        "character": "Lee Jun-ho",
+        "photoUrl": null
+      },
+      {
+        "id": "mock-12-2",
+        "name": "Kang Ki-young",
+        "character": "Jung Myung-seok",
+        "photoUrl": null
+      }
+    ],
+    "episodes": 16,
+    "detailsLoaded": true,
+    "source": "mock"
+  },
+  {
+    "id": "mock-13",
+    "title": "The Glory",
+    "originalTitle": "더 글로리",
+    "posterUrl": null,
+    "backdropUrl": null,
+    "overview": "Много лет спустя жертва школьной травли тщательно выстраивает план мести каждому из обидчиков.",
+    "year": 2022,
+    "rating": 8.1,
+    "genres": [
+      "Триллер",
+      "Драма"
+    ],
+    "cast": [
+      {
+        "id": "mock-13-0",
+        "name": "Song Hye-kyo",
+        "character": "Moon Dong-eun",
+        "photoUrl": null
+      },
+      {
+        "id": "mock-13-1",
+        "name": "Lee Do-hyun",
+        "character": "Joo Yeo-jeong",
+        "photoUrl": null
+      },
+      {
+        "id": "mock-13-2",
+        "name": "Lim Ji-yeon",
+        "character": "Park Yeon-jin",
+        "photoUrl": null
+      }
+    ],
+    "episodes": 16,
+    "detailsLoaded": true,
+    "source": "mock"
+  }
+]

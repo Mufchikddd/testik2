@@ -1,5 +1,7 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
+  // episodes.ts читает data/episodes.json во время работы — файл должен попасть в сборку
+  outputFileTracingIncludes: { '/**': ['./data/**/*'] },
   images: {
     // Держите список в синхроне с OPTIMIZED_IMAGE_HOSTS в src/lib/utils.ts
     remotePatterns: [
